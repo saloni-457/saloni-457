@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
-<h3 align="center">A passionate frontend developer from India, A passionate frontend & backend developer from India, crafting secure and intelligent web apps.</h3>
+<h3 align="center">A passionate frontend & backend developer from India, crafting secure and intelligent web apps.</h3>
 
 - 🔭 I’m currently working on **I’m currently working on Domestic Violence Reporting App**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **salonigupta3931@gmail.com**
 
-- ⚡ Fun fact **I build bots that talk more than I do 😄**
+- ⚡ Fun fact **Build something that people can’t stop using!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
