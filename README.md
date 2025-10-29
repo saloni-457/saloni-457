@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
-<h3 align="center">A passionate frontend & backend developer from India, crafting secure and intelligent web apps.</h3>
+<h3 align="center">A passionate Full Stack Developer from India, crafting secure and intelligent web apps.</h3>
 
-- 🔭 I’m currently working on **Domestic Violence Reporting App**
+- 🔭 I’m currently pursuing my **B.Tech from PSIT, Kanpur**.
 
 - 🌱 I’m currently learning **React Native**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saloni-457](https://github.com/saloni-457)
 
-- 💬 Ask me about **Java Language, MERN stack, APIs, cloud deployment**
+- 💬 Ask me about **Java Language, MERN stack, APIs,  and cloud**
 
 - 📫 How to reach me **salonigupta3931@gmail.com**
 
