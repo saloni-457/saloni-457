@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native.**
 
-- 👯 I’m looking to collaborate on **AI tools, social impact projects, MERN stack apps.**
+- 👯 I’m looking to collaborate on **AI tools, social impact projects, MERN stack apps**
 
 - 🤝 I’m looking for help with **Integrating AI in web apps, API optimization**
 
