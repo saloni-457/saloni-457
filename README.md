@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing my **B.Tech from PSIT, Kanpur.**
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **AI tools, social impact projects, MERN stack apps**
 
