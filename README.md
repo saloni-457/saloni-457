@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India, crafting secure and intelligent web apps.</h3>
 
-- 🔭 I’m currently pursuing my **B.Tech from PSIT, Kanpur.**
+- 🔭 I’m currently pursuing my **B.Tech from PSIT, Kanpur**
 
 - 🌱 I’m currently learning **React Native**
 
